@@ -1,6 +1,12 @@
 # POTATO
 Practical Optical Tweezers Analysis TOol
 
+For the most updated version check out the official lab link:
+https://github.com/REMI-HIRI/POTATO 
+
+
+
+
 ![image](https://user-images.githubusercontent.com/59534208/116917246-af18d980-ac4e-11eb-99fe-b86c5fce546a.png)
 
 ***copyright license***
